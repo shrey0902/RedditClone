@@ -1,39 +1,20 @@
-<p align="center" ><img src="https://socialify.git.ci/imtangim/chat_app/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Auto" alt="project-image"></p>
 
 # Reddit Clone
 
-Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
+Welcome to the Reddit Clone Project! This project is a simplified version of Reddit built using Flutter and Firebase, designed to help you understand and learn the basics of these technologies.
+
+## Introduction
+
+This project is a basic Reddit clone built with Flutter for the frontend and Firebase for the backend. The purpose of this project is to serve as a learning tool for understanding how to build cross-platform applications with Flutter and how to integrate Firebase services for authentication, database, and storage.
 
 ## Features
 
-- Google/Guest Authentication
-- Create, Join community
-- Community Profile (Avatar, Banner, Members)
-- Edit Description and Avatar of community
-- Post (link only, photo, text only)
-- Displaying posts from communities user is part of
-- Upvote, Downvote
-- Comment
-- Award the Post
-- Update Karma
-- Add Moderators
-- Moderator- remove post
-- Delete post
-- User Profile (Avatar, Banner)
-- Theme Switch
-- Cross Platform
-- Responsive UI
-- Latest posts (instead of home, display this to guest users)
+- **User Authentication**: Sign up and login using Firebase Authentication.
+- **Post Creation**: Create, edit, and delete posts.
+- **Comments**: Add comments to posts.
+- **Upvotes/Downvotes**: Vote on posts and comments.
+- **Real-time Updates**: Data updates in real-time using Firebase Firestore.
 
-## YouTube
-
-I have put video about all my project here [WittyWidget](https://www.youtube.com/@wittywidgets)
-
-<h2>🚀 App Preview</h2>
-
- [![Video](https://img.youtube.com/vi/jE544iUCEBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jE544iUCEBQ)
-
-[Watch the Video](https://youtu.be/jE544iUCEBQ)
 
 ## Installation
 
@@ -60,7 +41,7 @@ After cloning this repository, migrate to `flutter-reddit-clone` folder. Then, f
 
 ## Feedback
 
-If you have any feedback, please reach out to me at tanjim437@gmail.com
+If you have any feedback, please reach out to me at shreyagarwal2002@gmail.com
 
 <h2>Must Reset firebase config and reconfig before using</h2>
-<p>Follow this link : https://stackoverflow.com/questions/70844655/how-to-de-configure-flutterfire</p>
+
